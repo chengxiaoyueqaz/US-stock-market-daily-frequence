@@ -1,6 +1,6 @@
 # quant-trading-project
 
-out sample test with no trading universe restriction
+out sample test without trading universe restriction
 ![截屏2023-11-26 01 27 48](https://github.com/chengxiaoyueqaz/quant-trading-project/assets/45631631/e1ac4afa-69f1-4511-bebb-0cfdf62296a6)
 
 
