@@ -1,11 +1,11 @@
 # quant-trading-project
 
 out sample test without trading universe restriction
-![截屏2023-11-26 01 27 48](https://github.com/chengxiaoyueqaz/quant-trading-project/assets/45631631/e1ac4afa-69f1-4511-bebb-0cfdf62296a6)
+![截屏2023-11-27 15 35 59](https://github.com/chengxiaoyueqaz/quant-trading-project/assets/45631631/9fdb9379-90ee-4616-800d-28deebb7359f)
 
 
 
 out sample test with trading universe restriction
 
 
-![截屏2023-11-26 01 28 21](https://github.com/chengxiaoyueqaz/quant-trading-project/assets/45631631/6b96a2df-2e93-4112-9c9d-53579c52367d)
+![截屏2023-11-27 15 34 10](https://github.com/chengxiaoyueqaz/quant-trading-project/assets/45631631/23a1d424-d469-43d0-a0e8-f39dd815a9ff)
